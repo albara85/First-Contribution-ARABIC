@@ -2315,7 +2315,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/albara85">
-                <img src="https://github.com/albara85" width="50">
+                <img src="https://avatars.githubusercontent.com/u/170920896?s=400&v=4" width="50">
                 <br>
                 <h2>albara</h2>
             </a>
